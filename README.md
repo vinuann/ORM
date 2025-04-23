@@ -47,12 +47,14 @@ class Movies(models.Model):
 
 class MoviesAdmin(admin.ModelAdmin):
     list_display=('username','moviename','noofseats','mailid')
-    ```
+ ```
 
 
 
 ## OUTPUT
-Screenshot 2025-04-23 234446.png
+
+
+![alt text](<Screenshot 2025-04-23 234446.png>)
 
 
 
